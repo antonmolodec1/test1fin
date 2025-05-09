@@ -1,0 +1,102 @@
+{
+    "Industrials": {
+        "ABBN.SW": "ABB Ltd",
+        "GEBN.SW": "Geberit AG",
+        "HOLN.SW": "Holcim Ltd",
+        "SRAIL.SW": "Stadler Rail AG",
+        "SIE.DE": "Siemens AG"
+    },
+    "Healthcare": {
+        "ALC.SW": "Alcon Inc.",
+        "LONN.SW": "Lonza Group AG",
+        "NOVN.SW": "Novartis AG",
+        "ROG.SW": "Roche Holding AG",
+        "SOON.SW": "Sonova Holding AG",
+        "FME.DE": "Fresenius Medical Care AG & Co. KGaA",
+        "SHL.DE": "Siemens Healthineers AG",
+        "FRE.DE": "Fresenius SE & Co. KGaA"
+    },
+    "Luxury Goods": {
+        "CFR.SW": "Compagnie Financière Richemont SA",
+        "GIVN.SW": "Givaudan SA"
+    },
+    "Logistics": {
+        "KNIN.SW": "Kuehne + Nagel International AG",
+        "DHL.DE": "DHL Group"
+    },
+    "Technology": {
+        "LOGN.SW": "Logitech International S.A.",
+        "IFX.DE": "Infineon Technologies AG",
+        "SAP.DE": "SAP SE"
+    },
+    "Consumer Goods": {
+        "NESN.SW": "Nestlé S.A.",
+        "ADS.DE": "adidas AG",
+        "BEI.DE": "Beiersdorf AG",
+        "HEN3.DE": "Henkel AG & Co. KGaA",
+        "SY1.DE": "Symrise AG"
+    },
+    "Telecommunications": {
+        "SCMN.SW": "Swisscom AG",
+        "DTE.DE": "Deutsche Telekom AG"
+    },
+    "Construction Materials": {
+        "SIKA.SW": "Sika AG",
+        "HEI.DE": "Heidelberg Materials AG"
+    },
+    "Banks": {
+        "UBS.SW": "UBS Group AG",
+        "CBK.DE": "Commerzbank AG",
+        "DBK.DE": "Deutsche Bank AG"
+    },
+    "Insurance": {
+        "SLHN.SW": "Swiss Life Holding AG",
+        "SREN.SW": "Swiss Re AG",
+        "ALV.DE": "Allianz SE",
+        "HNR1.DE": "Hannover Rück SE",
+        "MUV2.DE": "Münchener Rückversicherungs-Gesellschaft AG"
+    },
+    "Asset Management": {
+        "PGHN.SW": "Partners Group Holding AG",
+        "PAH3.DE": "Porsche Automobil Holding SE"
+    },
+    "Aerospace": {
+        "AIR.DE": "Airbus SE",
+        "MTX.DE": "MTU Aero Engines AG"
+    },
+    "Chemicals": {
+        "BAS.DE": "BASF SE",
+        "BNR.DE": "Brenntag SE",
+        "LIN.DE": "Linde plc"
+    },
+    "Pharmaceuticals": {
+        "BAYN.DE": "Bayer AG",
+        "MRK.DE": "Merck KGaA"
+    },
+    "Automobiles": {
+        "BMW.DE": "Bayerische Motoren Werke AG",
+        "CON.DE": "Continental AG",
+        "MBG.DE": "Mercedes-Benz Group AG",
+        "DAI.DE": "Daimler AG",
+        "P911.DE": "Porsche AG",
+        "VOW3.DE": "Volkswagen AG"
+    },
+    "Energy": {
+        "ENR.DE": "Siemens Energy AG",
+        "EOAN.DE": "E.ON SE",
+        "RWE.DE": "RWE AG"
+    },
+    "Biotechnology": {
+        "QIA.DE": "Qiagen N.V.",
+        "SRT3.DE": "Sartorius AG"
+    },
+    "Defense": {
+        "RHM.DE": "Rheinmetall AG"
+    },
+    "Real Estate": {
+        "VNA.DE": "Vonovia SE"
+    },
+    "E-Commerce": {
+        "ZAL.DE": "Zalando SE"
+    }
+}
