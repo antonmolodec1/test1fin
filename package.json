@@ -2,7 +2,7 @@
   "name": "stock-analyzer",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/antonmolodec1/test1fin",
+  "homepage": "https://antonmolodec1.github.io/test1fin",
   "author": "antonmolodec1",
   "license": "MIT",
   "description": "A simple stock analyzer app that allows users to analyze stock data and visualize it using charts.",
